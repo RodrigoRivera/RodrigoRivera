@@ -43,18 +43,19 @@ Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, co
 
 **💻 Lenguajes, Frameworks & IDEs**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **🗄️ Infraestructura, Arquitectura & Bases de Datos**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -81,8 +82,8 @@ Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, co
 
 ### 🏆 Certificaciones
 
-*   **Certificación en Claude (Anthropic)**: *(Aquí puedes agregar el nombre exacto de tu certificación, por ejemplo: "Prompt Engineering con Claude" o "Integración de Claude API")* - *Año de obtención*
-*   *(Espacio para agregar otras certificaciones que tengas)*
+*   **Certificación en Claude (Anthropic)
+*   -Claude Code 101 -Claude Code in Action -Introduction to agent skills
 
 ---
 
@@ -92,8 +93,8 @@ Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, co
 | :--- | :--- | :--- |
 | **POS e Inventario** | Sistema de punto de venta PWA para un comercio local. Incluye control de inventario (Kardex), lectura de códigos de barras mediante cámara y manejo de moneda local. | Python · Django · PostgreSQL |
 | **App Flota GPS** | Aplicación corporativa multiplataforma nativa (iOS/Android) con geolocalización, diseñada para el monitoreo en tiempo real y visibilidad operativa de la gerencia. | Flutter · Dart · Python |
-| **Control de Asistencia** | Software a medida desarrollado para planta, diseñado para reemplazar los registros manuales y reducir significativamente los errores de marcaje. | Full-Stack |
-| **Pipeline Big Data** | Diseño y orquestación de procesamiento de datos a gran escala. | GCP (BigQuery, Dataflow, Pub/Sub) |
+| **Control de Asistencia** | Software a medida desarrollado para planta, diseñado para reemplazar los registros manuales y reducir significativamente los errores de marcaje. | Next.js · React · NestJS|
+
 
 ---
 
