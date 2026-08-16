@@ -22,13 +22,13 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, combinando una sólida base académica con experiencia real desarrollando software a medida y pipelines de datos en la nube. Me especializo en el desarrollo full-stack, arquitecturas de datos en GCP y ciberseguridad, con un enfoque en crear soluciones tecnológicas medibles.
+Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, con una sólida base académica con experiencia real desarrollando software a medida. Me especializo en el desarrollo full-stack, arquitecturas de datos en GCP y ciberseguridad, con un enfoque en crear soluciones tecnológicas medibles.
 
 * 🎓 Actualmente cursando mi último semestre y buscando una práctica profesional para seguir aportando valor y creciendo técnicamente.
 * 💻 **Encargado de TI y Desarrollador** en Transmetal: Creación de apps nativas (iOS/Android) para monitoreo GPS de flotas y software de control de asistencia.
 * ☁️ **Ingeniería de Datos (Cloud)**: Diseño y orquestación de pipelines de procesamiento a gran escala en **Google Cloud Platform** (BigQuery, Dataflow, Pub/Sub).
 * 🔐 Fuerte interés en la **Ciberseguridad**, abarcando desde auditoría y hardening de endpoints hasta uso de herramientas de pentesting.
-* 📍 Basado en Buin, Región Metropolitana.
+* 📍 Buin, Región Metropolitana, Chile.
 
 ---
 
