@@ -81,8 +81,8 @@ Estudiante de último año de **Ingeniería en Informática** en **Duoc UC**, co
 
 ### 🏆 Certificaciones
 
-*   **Certificación en Claude (Anthropic)
-*   -Claude Code 101 -Claude Code in Action -Introduction to agent skills
+*   Anthropic:
+*   Claude Code 101 · Claude Code in Action · Introduction to agent skills
 
 ---
 
